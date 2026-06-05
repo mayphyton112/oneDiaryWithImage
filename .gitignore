@@ -1,0 +1,15 @@
+#virtual environments
+venv/
+.venv/
+env/
+
+# pyenv (프로젝트 내에 생성된 경우)
+.python-version
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+humanoid.mp4
+humanoid.jpg
