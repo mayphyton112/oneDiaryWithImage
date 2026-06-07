@@ -1,4 +1,4 @@
-members = {
+existMembers = {
     "Chaelsu":{
         'mId': 'chaelsu1123',
         'mPw': '12345',
